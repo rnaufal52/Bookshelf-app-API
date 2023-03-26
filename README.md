@@ -1,6 +1,3 @@
-# Bookshelf API
-Submission Dicoding Course - Belajar Membuat Back End Web untuk Pemula. Dibangun menggunakan framework hapi Javascript. Aplikasi dilengkapi dengan penyimpanan lokal yaitu localstorage/array. Localstorage adalah penyimpanan lokal yang memberikan akses untuk membaca Storage objek untuk element dokumen. Data yang disimpan sepanjang sesi browser.
-
 <div id="top"></div>
 
 # Bookshelf API
